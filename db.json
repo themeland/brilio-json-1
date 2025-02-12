@@ -1,0 +1,128 @@
+{
+	"portfolio": [
+		{
+			"id": 1,
+			"title": "App Redesign",
+			"image": "/img/case-1.jpg",
+			"categories": ["App Design", "UI/UX"],
+			"projectLink": "/portfolio-single"
+		},
+		{
+			"id": 2,
+			"title": "Revitalizing a Classic Brand",
+			"image": "/img/case-2.jpg",
+			"categories": ["Branding", "Web Design"],
+			"projectLink": "/portfolio-single"
+		},
+		{
+			"id": 3,
+			"title": "Brand Refresh",
+			"image": "/img/case-3.jpg",
+			"categories": ["UI/UX"],
+			"projectLink": "/portfolio-single"
+		},
+		{
+			"id": 4,
+			"title": "STU Digital Experience",
+			"image": "/img/case-4.jpg",
+			"categories": ["SEO", "Branding"],
+			"projectLink": "/portfolio-single"
+		}
+	],
+	"filters": [
+		{
+			"id": "all",
+			"label": "All",
+			"value": "all",
+			"count": 7
+		},
+		{
+			"id": "branding",
+			"label": "Branding",
+			"value": "branding",
+			"count": 4
+		},
+		{
+			"id": "ui-ux",
+			"label": "UI/UX",
+			"value": "ui-ux",
+			"count": 3
+		},
+		{
+			"id": "app-design",
+			"label": "App Design",
+			"value": "app-design",
+			"count": 5
+		}
+	],
+	"singlePortfolio": {
+		"id": 1,
+		"title": "Branding and Website Redesign for Aurora Tech",
+		"date": "August 20, 2024",
+		"categories": ["App Design", "UI/UX"],
+		"description": "Aurora Tech, a rapidly growing tech company, approached me to redefine their brand identity and completely redesign their website. The goal was to modernize their digital presence to better reflect their innovative solutions while creating a seamless and engaging user experience.",
+		"task": "Transform brand identity with a cohesive brand refresh and a cutting-edge website redesign to drive innovation and engagement.",
+		"role": ["App Design", "UI/UX"],
+		"client": "Aurora Tech",
+		"categoryYear": "Brand Identity ©2024",
+		"liveSite": "#",
+		"gallery": [
+			"/img/case-1.jpg",
+			"/img/case-2.jpg",
+			"/img/case-3.jpg"
+		]
+	},
+	"awards": {
+		"title": "Awards & Recognition",
+		"items": [
+			{
+			"title": "Best User Experience",
+			"year": "2021",
+			"award": "Webby Awards",
+			"link": "/about"
+			},
+			{
+			"title": "Honorable Mention",
+			"year": "2022",
+			"award": "Awwwards",
+			"link": "/about"
+			},
+			{
+			"title": "Best UI Design",
+			"year": "2023",
+			"award": "CSS Design Awards",
+			"link": "/about"
+			},
+			{
+			"title": "Awards of The Year",
+			"year": "2024",
+			"award": "Honor of Awards",
+			"link": "/about"
+			}
+		]
+	},
+	"cta": {
+		"sub_title": "Want to collaborate?",
+		"title": "Let's Create Something",
+		"highlight": "Together",
+		"button": {
+			"text": "Get In Touch!",
+			"link": "contact",
+			"icon": "bi bi-arrow-right"
+		},
+		"socials": [
+			{
+			"name": "Instagram",
+			"link": "/#"
+			},
+			{
+			"name": "Twitter",
+			"link": "/#"
+			},
+			{
+			"name": "LinkedIn",
+			"link": "/#"
+			}
+		]
+	}
+}
