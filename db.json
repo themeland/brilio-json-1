@@ -58,18 +58,47 @@
 	"singlePortfolio": {
 		"id": 1,
 		"title": "Branding and Website Redesign for Aurora Tech",
-		"date": "August 20, 2024",
+		"date": "January 20, 2025",
 		"categories": ["App Design", "UI/UX"],
 		"description": "Aurora Tech, a rapidly growing tech company, approached me to redefine their brand identity and completely redesign their website. The goal was to modernize their digital presence to better reflect their innovative solutions while creating a seamless and engaging user experience.",
 		"task": "Transform brand identity with a cohesive brand refresh and a cutting-edge website redesign to drive innovation and engagement.",
 		"role": ["App Design", "UI/UX"],
 		"client": "Aurora Tech",
-		"categoryYear": "Brand Identity ©2024",
+		"categoryYear": "Brand Identity ©2025",
 		"liveSite": "#",
 		"gallery": [
 			"/img/case-1.jpg",
 			"/img/case-2.jpg",
 			"/img/case-3.jpg"
+		]
+	},
+	"skills": {
+		"title": "Crafting Unique Skills",
+		"items": [
+		{
+			"icon": "bi bi-app-indicator",
+			"value": "10+",
+			"label": "years of experience",
+			"description": "From startups to established brands, helping them achieve their digital goals."
+		},
+		{
+			"icon": "bi bi-layers-half",
+			"value": "6k",
+			"label": "clients worldwide",
+			"description": "Worked with a variety of clients, from startups to established brands, helping them achieve their digital goals."
+		},
+		{
+			"icon": "bi bi-intersect",
+			"value": "12+",
+			"label": "awards achieved",
+			"description": "Collaborative and client-focused, ensuring that every project reflects the unique vision."
+		}
+		],
+		"skillsProgress": [
+		{
+			"title": "UI Design & Development",
+			"progress": 94
+		}
 		]
 	},
 	"awards": {
@@ -95,10 +124,30 @@
 			},
 			{
 			"title": "Awards of The Year",
-			"year": "2024",
+			"year": "2025",
 			"award": "Honor of Awards",
 			"link": "/about"
 			}
+		]
+	},
+	"awardstwo": {
+		"title": "Awards & Recognition",
+		"items": [
+		{
+			"image": "/img/award-1.png",
+			"description": "Recognized for the outstanding UX design of the e-commerce platform, reflecting my commitment to user-centered design.",
+			"link": "/about"
+		},
+		{
+			"image": "/img/award-2.png",
+			"description": "Honorable mention for the innovative design and functionality of the website, highlighting my ability to blend creativity.",
+			"link": "/about"
+		},
+		{
+			"image": "/img/award-3.png",
+			"description": "Awarded for the sleek and intuitive UI of personal portfolio website, showcasing my skill in creating aesthetics.",
+			"link": "/about"
+		}
 		]
 	},
 	"cta": {
