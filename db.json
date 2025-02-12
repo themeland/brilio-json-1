@@ -72,6 +72,35 @@
 			"/img/case-3.jpg"
 		]
 	},
+	"skills": {
+		"title": "Crafting Unique Skills",
+		"items": [
+		{
+			"icon": "bi bi-app-indicator",
+			"value": "10+",
+			"label": "years of experience",
+			"description": "From startups to established brands, helping them achieve their digital goals."
+		},
+		{
+			"icon": "bi bi-layers-half",
+			"value": "6k",
+			"label": "clients worldwide",
+			"description": "Worked with a variety of clients, from startups to established brands, helping them achieve their digital goals."
+		},
+		{
+			"icon": "bi bi-intersect",
+			"value": "12+",
+			"label": "awards achieved",
+			"description": "Collaborative and client-focused, ensuring that every project reflects the unique vision."
+		}
+		],
+		"skillsProgress": [
+		{
+			"title": "UI Design & Development",
+			"progress": 94
+		}
+		]
+	},
 	"awards": {
 		"title": "Awards & Recognition",
 		"items": [
