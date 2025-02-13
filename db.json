@@ -27,6 +27,27 @@
 			"image": "/img/case-4.jpg",
 			"categories": ["SEO", "Branding"],
 			"projectLink": "/portfolio-single"
+		},
+		{
+			"id": 5,
+			"title": "E-Commerce Website",
+			"image": "/img/case-5.jpg",
+			"categories": ["Web Design", "E-Commerce"],
+			"projectLink": "/portfolio-single"
+		},
+		{
+			"id": 6,
+			"title": "Mobile App Development",
+			"image": "/img/case-6.jpg",
+			"categories": ["Mobile", "UI/UX"],
+			"projectLink": "/portfolio-single"
+		},
+		{
+			"id": 7,
+			"title": "Corporate Branding Strategy",
+			"image": "/img/case-7.jpg",
+			"categories": ["Branding", "Strategy"],
+			"projectLink": "/portfolio-single"
 		}
 	],
 	"filters": [
